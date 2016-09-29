@@ -11,7 +11,7 @@
 #include <linux/fs.h>
 
 #define BLOCKSIZE 512
-#define TIMEOUT 20
+#define TIMEOUT 15
 
 int count;
 time_t start;
